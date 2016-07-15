@@ -19,3 +19,7 @@ title:  "项目技术的整体实现"
 * File；
 * SQLite；
 * SharedPreference
+
+# 支付功能
+
+* BeeCloud(一个集成了支付宝，微信钱包，百度钱包等支付手段的SDK)
